@@ -1,0 +1,59 @@
+/* --- ############# #35363a, #191a1d, #c83838 ############# --- */
+*{
+  box-sizing: border-box;
+}
+body{
+  width: 83%;
+  margin: auto;
+  background: #191a1d;
+  color: whitesmoke;
+  font-family: 'Ubuntu Mono', monospace;
+
+}
+/* --- ############# xxx ############# --- */
+pre{
+    background:#35363a;
+    color: #1eb;
+    border:black dashed 1px;
+    display: inline-block;
+    padding:6px;
+  font-family: 'Inconsolata';
+}
+code{ font-family: inherit;}
+
+h1,h2,h3,h4{
+  color: #c83838;
+  
+}
+
+/* --- ############# xxx ############# --- */
+
+.title{
+  font-family: 'Inconsolata';
+  font-size: 4.2em;
+  line-height: 1em;
+  margin-bottom: 0;
+}
+
+.container{
+      max-width: 93%;
+      margin: auto;
+}
+.code-block{
+  max-width: 93%;
+  margin: auto;
+  font-family: 'Inconsolata';
+
+}
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
+
+
+/* --- ############# xxx ############# --- */
